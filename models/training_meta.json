@@ -1,0 +1,16 @@
+{
+  "final_iterations": 193,
+  "seeds": 42,
+  "cat_features": [
+    "equipment"
+  ],
+  "catboost_parameters": {
+    "iterations": 193,
+    "learning_rate": 0.05,
+    "depth": 6,
+    "l2_leaf_reg": 5,
+    "loss_function": "RMSE",
+    "random_seed": 42,
+    "verbose": 100
+  }
+}
